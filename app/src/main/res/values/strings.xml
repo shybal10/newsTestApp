@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="enter_key">Please Enter Search Keyword</string>
+    <string name="internet_not_available">Internet Not Available</string>
+    <string name="content_image">content image</string>
+    <string name="search_news">Search News</string>
+    <string name="type_name_here">Type Name Here</string>
+    <string name="search">Search</string>
+    <string name="main_image_for_the_news">main image for the news</string>
+</resources>
